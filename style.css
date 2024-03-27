@@ -1067,7 +1067,7 @@ input[type="button"].btn-block{
 	#BBAADD);
 }.mainheader{
 
-}.mainheadernav{
+}.mainheader nav{
 
 	width: 1200;height: auto
 }.allcontent{
@@ -1084,7 +1084,7 @@ input[type="button"].btn-block{
 		width: 320;height: auto;
 	}.body{
 		width: 90%;
-	}.mainheadernav{
+	}.mainheader nav{
 		width: 400px;height: auto;
 	}.allcontent{
 		width: 100%;float: left;margin-top: 2%;
